@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/samsung/j13g/j13g-vendor-blobs.mk)
